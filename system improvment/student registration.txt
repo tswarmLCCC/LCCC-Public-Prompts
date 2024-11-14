@@ -1,0 +1,30 @@
+We would like to explore our initiative to allow students to register for classes up to year in advance
+		a. Currently we allow students to enroll in April in fall,  and in  November for Spring in summer
+		b. we would like to explore the Idea to allow students to enroll for fall spring summer up from in the prior Spring
+	2. Challegnes
+		a. Predict demand for courses
+		b. Internal processes don't allow for this currently (IT and procedurally)
+		c. Don't have a good way to assess program maps to ensure students are doing what they should
+		d. How might we enable students to enroll in a full year
+
+Explain how we might approach this problem as an instutution for me, explain both at a high level and with implimentation details
+-------------------------------
+
+
+We are exploring the feasibility of extending our student course registration window to one year in advance. Currently, students can enroll in fall classes in April and in spring classes in November.
+
+Goals:
+
+Enhanced Student Planning: Empower students with greater flexibility and control over their academic schedules.
+Optimized Resource Allocation: Improve course planning and resource allocation by predicting future demand.
+Challenges:
+
+Demand Forecasting: Accurately predict future course demand.
+System and Process Limitations: Adapt current IT systems and procedures to accommodate year-round registration.
+Program Map Adherence: Ensure students register for appropriate courses aligned with their academic plans.
+Questions:
+
+How can we accurately forecast future course demand?
+What IT systems and processes need to be updated to support year-round registration?
+How can we effectively monitor and guide students to adhere to their program maps?
+What strategies can we employ to enable students to register for a full year's worth of courses?
